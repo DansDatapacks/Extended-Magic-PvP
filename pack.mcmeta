@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"description": [
+			{
+				"text": "Extended Magic PvP ",
+				"color": "light_purple"
+			},
+			{
+				"text": "By Bertiecrafter & DanMizu (v1.1)",
+				"color": "gray"
+			}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Extended Magic PvP Framework",
+    "description": "Allows spells do to more!",
+    "icon": {
+			"item": "minecraft:book"
+    },
+    "background": "minecraft:textures/block/black_concrete_powder.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:danmizu",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
